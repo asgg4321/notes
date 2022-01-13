@@ -5,7 +5,7 @@
         * 1、稀疏  
         * 2、文字互相正交
     * word2vec:
-        * 对文字one_hot编码后，训练Embedding矩阵，矩阵相乘可得文字的嵌入式编码。![示意](NLP/pics/word2vec.jpg)
+        * 对文字one_hot编码后，训练Embedding矩阵，矩阵相乘可得文字的嵌入式编码。![示意](pics/word2vec.jpg)
         
     
 # 2、命名实体识别（NER）
