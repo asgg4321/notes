@@ -38,8 +38,10 @@
                 * 句标嵌入矩阵
             *结构 
                 * Transformer Multi-head Attention(多头注意力机制）
-                    * Atention
+                    * Attention
+                        * attention公式
                         * ![Atention公式](pics/attention.gif)
+                        * 计算处理示意图 ![Attention_process](pics/attention_process.jpg)
                 * Add & Norm
                     * LayerNorm(R+O)
                 * Feed Forward
@@ -56,7 +58,7 @@
 
 # 附：数据标注与标注管理
 
-# 感谢：
+# 参考：
     众阳健康科技的张伯政的直播演讲，此笔记旨在记录此直播，并整理对这个技术的学习。  
     [glove参考文章](https://www.jianshu.com/p/6b74f77c05e3)
 
